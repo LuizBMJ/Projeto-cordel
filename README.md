@@ -1,34 +1,44 @@
-# Projeto Cordel Moderno
+# Cordel Moderno — Website
 
-Site informativo sobre o poema "Cordel Moderno" de Milton Duarte.
+> Informational website showcasing the poem *"Cordel Moderno"* by Milton Duarte, featuring a parallax scrolling experience.
 
-## Descrição
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-Este projeto apresenta o poema "Cordel Moderno" em um site com efeito parallax, alternando entre seções com fundo branco e imagens de fundo. O design utiliza fontes personalizadas do Google Fonts (Passion One e Sriracha) para dar um ar artístico ao conteúdo.
+---
 
-## Tecnologias
+## 📌 Overview
 
-- HTML5
-- CSS3
-- Google Fonts
+This project presents the poem *"Cordel Moderno"* through a visually engaging website with a parallax scrolling effect. Sections alternate between white backgrounds and full-image backgrounds, while custom Google Fonts — **Passion One** and **Sriracha** — give the content a distinctive artistic character.
 
-## Estrutura
+## 🛠️ Technologies
+
+- **HTML5** — Page structure
+- **CSS3** — Styling and parallax effect
+- **Google Fonts** — Passion One & Sriracha
+
+## 📁 Project Structure
 
 ```
-├── index.html          # Página principal
+├── index.html              # Main page
 ├── estilo/
-│   └── estilo.css      # Arquivo de estilos
+│   └── estilo.css          # Stylesheet
 ├── imagens/
 │   ├── background001.jpg
 │   └── background002.jpg
-├── cordel-moderno.txt # Texto original do poema
+├── cordel-moderno.txt      # Original poem text
 └── LICENSE
 ```
 
-## Como visualizar
+## 🚀 Getting Started
 
-Basta abrir o arquivo `index.html` em qualquer navegador web.
+Clone the repository and open `index.html` in any web browser — no setup required.
 
-## Licença
+```bash
+git clone https://github.com/LuizBMJ/cordel-moderno-website.git
+```
 
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
